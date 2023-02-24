@@ -106,7 +106,8 @@ a {
     font-family: Arial;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 20px 10px 30px;
+    margin: 10px;
     text-decoration: none;
 }
   
@@ -121,9 +122,20 @@ a {
 }
 
 .bottom-container {
-    margin: 30px;
+    background-color: #66BFBF;
+    margin-top: 40px;
+    padding: 40px 0;
 }   
 
 .bottom-container a {
     margin: 0 10px;
+    text-decoration: none;
+}
+
+.bottom-container a:hover {
+    color: #186163;
+}
+
+.bottom-container p{
+    color: #fff;
 }
