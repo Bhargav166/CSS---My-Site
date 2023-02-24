@@ -1,4 +1,5 @@
 body {
+    color: #40514E;
     margin: 0;
     text-align: center; 
     font-family: 'Merriweather', serif;
@@ -19,7 +20,7 @@ hr {
     background-color: none;
     border-style: dotted none none;
     border-width: 5px;
-    border-color: #eaf6f6;
+    border-color: #EAf6f6;
     width: 5%;
 }
 
